@@ -1,0 +1,6 @@
+f:\Users\jason\source\repos\Cpp.CompileError.Sample\Cpp.CompileError.Sample.vcxproj;x86
+f:\Users\jason\source\repos\ImplementationComponent\ImplementationComponent.csproj;x86
+f:\Users\jason\source\repos\InterfaceDefinitionComponent\InterfaceDefinitionComponent.csproj;x86
+f:\Users\jason\source\repos\InterfaceDefinitionComponent\InterfaceDefinitionComponent.csproj;x86
+f:\Users\jason\source\repos\InterfaceDefinitionComponent\InterfaceDefinitionComponent.csproj;x86
+f:\Users\jason\source\repos\MainComponent\MainComponent.csproj;x86

@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Users\\jason\\source\\repos\\CppCompileErrorSample\\InterfaceDefinitionComponent\\InterfaceDefinitionComponent.csproj": {}
+  },
+  "projects": {
+    "F:\\Users\\jason\\source\\repos\\CppCompileErrorSample\\InterfaceDefinitionComponent\\InterfaceDefinitionComponent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Users\\jason\\source\\repos\\CppCompileErrorSample\\InterfaceDefinitionComponent\\InterfaceDefinitionComponent.csproj",
+        "projectName": "InterfaceDefinitionComponent",
+        "projectPath": "F:\\Users\\jason\\source\\repos\\CppCompileErrorSample\\InterfaceDefinitionComponent\\InterfaceDefinitionComponent.csproj",
+        "packagesPath": "F:\\Users\\jason\\.nuget",
+        "outputPath": "F:\\Users\\jason\\source\\repos\\CppCompileErrorSample\\InterfaceDefinitionComponent\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "f:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.15063"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.15063": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.15063": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.12, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

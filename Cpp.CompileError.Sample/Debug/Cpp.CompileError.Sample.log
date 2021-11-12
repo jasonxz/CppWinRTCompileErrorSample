@@ -1,0 +1,51 @@
+﻿  MIDLRT Processing F:\Users\jason\source\repos\CppCompileErrorSample\Cpp.CompileError.Sample\Generated Files\XamlMetaDataProvider.idl
+  XamlMetaDataProvider.idl
+  MIDLRT Processing F:\Windows Kits\10\Include\10.0.19041.0\winrt\winrtbase.idl
+  winrtbase.idl
+  MIDLRT Processing F:\Windows Kits\10\Include\10.0.19041.0\winrt\midlbase.idl
+  midlbase.idl
+  Processing WinMD f:\users\jason\source\repos\cppcompileerrorsample\implementationcomponent\bin\x86\debug\implementationcomponent.winmd
+  Processing WinMD f:\users\jason\source\repos\cppcompileerrorsample\interfacedefinitioncomponent\bin\x86\debug\interfacedefinitioncomponent.winmd
+  Processing WinMD f:\users\jason\source\repos\cppcompileerrorsample\maincomponent\bin\x86\debug\maincomponent.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.ai.machinelearning.machinelearningcontract\3.0.0.0\windows.ai.machinelearning.machinelearningcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract\2.0.0.0\windows.ai.machinelearning.preview.machinelearningpreviewcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.calls.background.callsbackgroundcontract\2.0.0.0\windows.applicationmodel.calls.background.callsbackgroundcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.calls.callsphonecontract\5.0.0.0\windows.applicationmodel.calls.callsphonecontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.calls.callsvoipcontract\4.0.0.0\windows.applicationmodel.calls.callsvoipcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.communicationblocking.communicationblockingcontract\2.0.0.0\windows.applicationmodel.communicationblocking.communicationblockingcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.socialinfo.socialinfocontract\2.0.0.0\windows.applicationmodel.socialinfo.socialinfocontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.applicationmodel.startuptaskcontract\3.0.0.0\windows.applicationmodel.startuptaskcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.devices.custom.customdevicecontract\1.0.0.0\windows.devices.custom.customdevicecontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.devices.deviceslowlevelcontract\3.0.0.0\windows.devices.deviceslowlevelcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.devices.printers.printerscontract\1.0.0.0\windows.devices.printers.printerscontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.devices.smartcards.smartcardbackgroundtriggercontract\3.0.0.0\windows.devices.smartcards.smartcardbackgroundtriggercontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.devices.smartcards.smartcardemulatorcontract\6.0.0.0\windows.devices.smartcards.smartcardemulatorcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.foundation.foundationcontract\4.0.0.0\windows.foundation.foundationcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.foundation.universalapicontract\10.0.0.0\windows.foundation.universalapicontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.gaming.xboxlive.storageapicontract\1.0.0.0\windows.gaming.xboxlive.storageapicontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.graphics.printing3d.printing3dcontract\4.0.0.0\windows.graphics.printing3d.printing3dcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.networking.connectivity.wwancontract\2.0.0.0\windows.networking.connectivity.wwancontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.networking.sockets.controlchanneltriggercontract\3.0.0.0\windows.networking.sockets.controlchanneltriggercontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.security.isolation.isolatedwindowsenvironmentcontract\2.0.0.0\windows.security.isolation.isolatedwindowsenvironmentcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.services.maps.guidancecontract\3.0.0.0\windows.services.maps.guidancecontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.services.maps.localsearchcontract\4.0.0.0\windows.services.maps.localsearchcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.services.store.storecontract\4.0.0.0\windows.services.store.storecontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.services.targetedcontent.targetedcontentcontract\1.0.0.0\windows.services.targetedcontent.targetedcontentcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.storage.provider.cloudfilescontract\4.0.0.0\windows.storage.provider.cloudfilescontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.system.profile.profilehardwaretokencontract\1.0.0.0\windows.system.profile.profilehardwaretokencontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.system.profile.profilesharedmodecontract\2.0.0.0\windows.system.profile.profilesharedmodecontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract\3.0.0.0\windows.system.profile.systemmanufacturers.systemmanufacturerscontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.system.systemmanagementcontract\7.0.0.0\windows.system.systemmanagementcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract\1.0.0.0\windows.ui.viewmanagement.viewmanagementviewscalingcontract.winmd
+  Processing WinMD f:\windows kits\10\references\10.0.19041.0\windows.ui.xaml.core.direct.xamldirectcontract\2.0.0.0\windows.ui.xaml.core.direct.xamldirectcontract.winmd
+MDMERGE : error MDM2009: Duplicate type InterfaceDefinitionComponent.InterfaceDefinition found processing metadata file F:\Users\jason\source\repos\CppCompileErrorSample\InterfaceDefinitionComponent\bin\x86\Debug\InterfaceDefinitionComponent.winmd, type already exists in file F:\Users\jason\source\repos\CppCompileErrorSample\ImplementationComponent\bin\x86\Debug\InterfaceDefinitionComponent.winmd.
+MDMERGE : error MDM2009: Duplicate type Microsoft.UI.Xaml.Markup.ReflectionXamlMetadataProvider found processing metadata file F:\Users\jason\source\repos\CppCompileErrorSample\InterfaceDefinitionComponent\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd, type already exists in file F:\Users\jason\source\repos\CppCompileErrorSample\ImplementationComponent\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd.
+MDMERGE : error MDM2009: Duplicate type InterfaceDefinitionComponent.InterfaceDefinition found processing metadata file F:\Users\jason\source\repos\CppCompileErrorSample\MainComponent\bin\x86\Debug\InterfaceDefinitionComponent.winmd, type already exists in file F:\Users\jason\source\repos\CppCompileErrorSample\ImplementationComponent\bin\x86\Debug\InterfaceDefinitionComponent.winmd.
+MDMERGE : error MDM2009: Duplicate type Microsoft.UI.Xaml.Markup.ReflectionXamlMetadataProvider found processing metadata file F:\Users\jason\source\repos\CppCompileErrorSample\MainComponent\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd, type already exists in file F:\Users\jason\source\repos\CppCompileErrorSample\ImplementationComponent\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd.
+  Microsoft(R) Metadata Merge Utility Version 10.0.49.
+  
+  
+  Processing input metadata file Debug\Unmerged\XamlMetaDataProvider.winmd.
+  Saved output metadata file Cpp_CompileError_Sample.winmd.
+  Validating metadata file Debug\Merged\Cpp_CompileError_Sample.winmd.
+F:\Users\jason\source\repos\CppCompileErrorSample\packages\Microsoft.Windows.CppWinRT.2.0.211028.7\build\native\Microsoft.Windows.CppWinRT.targets(565,9): error MSB3073: The command "mdmerge @"Debug\Cpp.CompileError.Sample.vcxproj.mdmerge.rsp"" exited with code 2.
